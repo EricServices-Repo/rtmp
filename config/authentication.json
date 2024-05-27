@@ -1,1 +1,4 @@
-
+{
+  "live":["key-value-goes-here"],
+  "example":["example", "another-example"]
+}
