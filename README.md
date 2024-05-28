@@ -4,9 +4,9 @@ Installs a multi-node design RTMP Streaming Platform.
 
 # Features  
 ### Design  
--Allows for multiple RTMP Ingest Nodes  
--Single Core RTMP Origin Server  
--Allows for multiple HLS Edge Nodes  
+- Allows for multiple RTMP Ingest Nodes  
+- Single Core RTMP Origin Server  
+- Allows for multiple HLS Edge Nodes  
 ### Security  
 - RTMP Authentication on Ingest via Stream Key  
 - Origin Server only allows Ingest Server  
