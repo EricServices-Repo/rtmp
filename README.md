@@ -12,8 +12,8 @@ Installs a multi-node design RTMP Streaming Platform.
 - Origin Server only allows Ingest Server  
 
 # Dependancies
--Ubuntu  
--Nginx with RTMP module  
+- Ubuntu (due to RTMP module)  
+- Nginx with RTMP module  
 
 # Installation
 ## Live (Read the Code first!) 
